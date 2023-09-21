@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          THIS IS MY FIRST NETLIFY APPLICATION 
         </a>
       </header>
     </div>
